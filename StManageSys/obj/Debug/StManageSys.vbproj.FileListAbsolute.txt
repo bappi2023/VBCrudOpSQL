@@ -1,0 +1,12 @@
+E:\BappisPracticeProject\StManageSys\StManageSys\bin\Debug\StManageSys.exe.config
+E:\BappisPracticeProject\StManageSys\StManageSys\bin\Debug\StManageSys.exe
+E:\BappisPracticeProject\StManageSys\StManageSys\bin\Debug\StManageSys.pdb
+E:\BappisPracticeProject\StManageSys\StManageSys\bin\Debug\StManageSys.xml
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.vbproj.AssemblyReference.cache
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.Form1.resources
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.Resources.resources
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.vbproj.GenerateResource.cache
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.vbproj.CoreCompileInputs.cache
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.exe
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.xml
+E:\BappisPracticeProject\StManageSys\StManageSys\obj\Debug\StManageSys.pdb
